@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 
 <h1 align="center">Hi 👋, I'm Rishav Bisht</h1>
 <h3 align="center">Experienced in C++, HTML/CSS, and Python. I enjoy solving problems and also worked as Front-End developer</h3>
