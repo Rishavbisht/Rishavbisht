@@ -18,6 +18,5 @@
 
 p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavbisht&show_icons=true&locale=en&layout=compact" alt="rishavbisht" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavbisht&show_icons=true&locale=en" alt="rishavbisht" /></p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
