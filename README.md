@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
 <h1 align="center">Hi 👋, I'm Rishav Bisht</h1>
 <h3 align="center">Experienced in C++, HTML/CSS, and Python. I enjoy solving problems and also worked as Front-End developer</h3>
-<img align="right" alt="coding" width="400" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRahul7874%2FRahul7874&psig=AOvVaw3Lj4As7mrZvBAXXt3fLQYl&ust=1707555085517000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCMCersTwnYQDFQAAAAAdAAAAABDCAQ.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🌱 I’m currently learning **Node.js React**
 
