@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rishav Bisht</h1>
 <h3 align="center">Experienced in C++, HTML/CSS, and Python. I enjoy solving problems and also worked as Front-End developer</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 - 🌱 I’m currently learning **Node.js React**
