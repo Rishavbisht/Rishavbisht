@@ -2,9 +2,8 @@
 
 # 💫 About Me:
 📚I'm a B.tech CSE Undergrad.<br>📝 I’m currently learning DSA , Node.js , React<br>📷 Experienced in C++, HTML/CSS, and Python. I enjoy solving problems and also worked as Front-End developer<br>
-- 👨‍💻 All of my projects are available at [https://github.com/Rishavbisht?tab=repositories](https://github.com/Rishavbisht?tab=repositories)
-
-- 📫 How to reach me **rishavbisht07@gmail.com**
+👨‍💻 All of my projects are available at [https://github.com/Rishavbisht?tab=repositories](https://github.com/Rishavbisht?tab=repositories)
+📫 How to reach me **rishavbisht07@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishav.rb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishav-bisht-aa7a921b7/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/rbsynchro/) [![Gmail]()]
