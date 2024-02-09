@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 📚I'm a B.tech CSE Undergrad.<br>📝 I’m currently learning DSA , Node.js , React<br>📷 Experienced in C++, HTML/CSS, and Python. I enjoy solving problems and also worked as Front-End developer<br>
-👨‍💻 All of my projects are available at [https://github.com/Rishavbisht?tab=repositories](https://github.com/Rishavbisht?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/Rishavbisht?tab=repositories](https://github.com/Rishavbisht?tab=repositories)<br>
 📫 How to reach me **rishavbisht07@gmail.com**
 
 ## 🌐 Socials:
