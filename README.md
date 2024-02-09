@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2TgFCCRxZqrVyg1cIIMAiW&ust=1707556210605000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjF1Nz0nYQDFQAAAAAdAAAAABAE)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2TgFCCRxZqrVyg1cIIMAiW&ust=1707556210605000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjF1Nz0nYQDFQAAAAAdAAAAABAE.gif)]
 <h1 align="center">Hi 👋, I'm Rishav Bisht</h1>
 <h3 align="center">Experienced in C++, HTML/CSS, and Python. I enjoy solving problems and also worked as Front-End developer</h3>
-<img align="right" alt="coding" width="400" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRahul7874%2FRahul7874&psig=AOvVaw3Lj4As7mrZvBAXXt3fLQYl&ust=1707555085517000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCMCersTwnYQDFQAAAAAdAAAAABDCAQ">
+<img align="right" alt="coding" width="400" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRahul7874%2FRahul7874&psig=AOvVaw3Lj4As7mrZvBAXXt3fLQYl&ust=1707555085517000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCMCersTwnYQDFQAAAAAdAAAAABDCAQ.gif">
 
 - 🌱 I’m currently learning **Node.js React**
 
